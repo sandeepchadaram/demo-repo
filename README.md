@@ -5,4 +5,4 @@ Description!
 
 ## Subheader
 
-Watch the tutorial on YouTUbe @ FreeCodeCamp
+Watch the tutorial on YouTube @ FreeCodeCamp
